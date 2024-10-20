@@ -1,9 +1,9 @@
 ### usage
 
 ```sh
-npm i @excalidraw/random-username
+npm i random-username-swedish
 ```
 
 ```js
-import { getRandomUsername } from "@excalidraw/random-username";
+import { getRandomUsername } from "random-username-swedish";
 ```
